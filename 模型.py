@@ -109,6 +109,8 @@ first_buy = pd.Series(first_buy)
 prods = share.ix[:, 12]
 #print(prods.value_counts())
 
+#2017年4月9日 git测试
+
 
 
 
